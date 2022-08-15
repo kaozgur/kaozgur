@@ -1,0 +1,4 @@
+- Hi, I’m @kaozgur, a senior computer science student.
+- I’m interested in computer science, AI, cloud computing, nlp.
+- I’m currently learning JS and Electron. 
+- You can reach me at Instagram: @ozgurknbr.  

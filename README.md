@@ -1,8 +1,6 @@
 # Hi there, I'm Özgür! 👋
 
-I'm a 25-year-old **Full Stack Developer** based in İzmit, Turkey. I specialize in building robust backend systems and dynamic frontend interfaces. 
-
-My core coding philosophy is simplicity: my primary objective is always to create code that is clean, readable, and easily understood by any of my team members so they can confidently alter or update it without friction.
+I'm a **Full Stack Developer** based in İzmit, Turkey. I specialize in building robust backend systems and dynamic frontend interfaces. 
 
 ## 🛠️ Tech Stack & Tools
 
@@ -24,5 +22,4 @@ My core coding philosophy is simplicity: my primary objective is always to creat
 * **LinkedIn:** [linkedin.com/in/%C3%B6zg%C3%BCr-kanber-414939168](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-kanber-414939168/)
 * **Email:** ozgurkanberrrr@gmail.com
 
----
-*"Writing code for machines to execute, but for humans to read and maintain."*
+
